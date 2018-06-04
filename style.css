@@ -1,0 +1,14 @@
+body {
+    background-color: #1D1D1D;
+}
+
+@font-family {
+    font-family: 'Playfair Display', serif;
+
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: #FDFDFD;
+    font-size: 2em;
+}
