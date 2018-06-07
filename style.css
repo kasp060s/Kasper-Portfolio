@@ -1,5 +1,9 @@
 body {
     background-color: white;
+    align-items: center;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    flex-direction: column;
 }
 
 @font-family {
@@ -12,6 +16,13 @@ h1 {
     color: black;
     font-size: 3em;
     text-align: center;
+
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    color: black;
+    font-size: 1.5em;
 
 }
 nav {
@@ -45,8 +56,9 @@ img {
     width: 100%;
 }
 
-#skitse object{
-    width: 90vw;
+#skitse object {
+    width: 80vw;
     height: 600px;
+    align-content: center;
 
 }
